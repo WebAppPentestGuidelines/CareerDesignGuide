@@ -1,4 +1,6 @@
 baseURL = 'https://example.org/'
+# baseURL = 'https://webapppentestguidelines.github.io/CareerDesignGuide/'
+defaultContentLanguage = 'ja'
 languageCode = 'ja'
 title = '脆弱性診断士のキャリアデザインガイド'
 theme = 'hugo-book'
@@ -17,24 +19,24 @@ googleAnalytics = ""
 [params]
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  # BookRepo = 'https://localhost'
+  BookRepo = 'https://github.com/WebAppPentestGuidelines/CareerDesignGuide'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  # BookEditPath = 'edit/main'
+  BookEditPath = 'edit/main'
 
   # Specifies commit portion of the link to the page's last modified commit hash for 'doc' page
   # type.
   # Required if 'BookRepo' param is set.
   # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
   # Github uses 'commit', Bitbucket uses 'commits'
-  # BookCommitPath = 'commit'
+  BookCommitPath = 'commit'
 
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  # BookDateFormat = '2006年1月2日'
+  BookDateFormat = '2006年1月2日'
   
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.

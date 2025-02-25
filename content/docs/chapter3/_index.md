@@ -1,8 +1,8 @@
 ---
-title: "脆弱性診断士のキャリアデザインガイド"
+title: "第3章 脆弱性診断士の実態"
 description: "脆弱性診断士のキャリアデザインガイド"
-weight: 1
-bookToc: false
+weight: 30
+type: chapter
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

@@ -1,8 +1,8 @@
 ---
-title: "脆弱性診断士のキャリアデザインガイド"
+title: "第2章 あなたも脆弱性診断士に！"
 description: "脆弱性診断士のキャリアデザインガイド"
-weight: 1
-bookToc: false
+weight: 20
+type: chapter
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

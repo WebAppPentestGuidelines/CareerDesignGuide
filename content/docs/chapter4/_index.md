@@ -1,8 +1,8 @@
 ---
-title: "脆弱性診断士のキャリアデザインガイド"
+title: "第4章 脆弱性診断士の将来"
 description: "脆弱性診断士のキャリアデザインガイド"
-weight: 1
-bookToc: false
+weight: 40
+type: chapter
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

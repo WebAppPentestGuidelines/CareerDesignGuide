@@ -1,8 +1,8 @@
 ---
-title: "脆弱性診断士のキャリアデザインガイド"
+title: "第6章 アンケート回答者の属性"
 description: "脆弱性診断士のキャリアデザインガイド"
-weight: 1
-bookToc: false
+weight: 60
+type: chapter
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
