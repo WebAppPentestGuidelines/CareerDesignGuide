@@ -4,7 +4,7 @@ languageCode = 'ja'
 title = '脆弱性診断士のキャリアデザインガイド'
 theme = 'hugo-book'
 enableGitInfo = true
-googleAnalytics = ""
+googleAnalytics = "G-GFJ1KKPQFK"
 
 
 # (Optional) If you provide a Disqus shortname, comments will be enabled on
