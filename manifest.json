@@ -1,0 +1,15 @@
+{
+  "name": "脆弱性診断士のキャリアデザインガイド",
+  "short_name": "脆弱性診断士のキャリアデザインガイド",
+  "start_url": "/CareerDesignGuide/",
+  "scope": "/CareerDesignGuide/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/CareerDesignGuide/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

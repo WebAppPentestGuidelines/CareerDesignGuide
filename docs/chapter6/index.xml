@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第6章 アンケート回答者の属性 on 脆弱性診断士のキャリアデザインガイド</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/</link><description>Recent content in 第6章 アンケート回答者の属性 on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/index.xml" rel="self" type="application/rss+xml"/><item><title>6.1 アンケートの実施方法と回答数</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section1/</guid><description>&lt;h1 id="61-アンケートの実施方法と回答数">
+ 6.1 アンケートの実施方法と回答数
+ &lt;a class="anchor" href="#61-%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e3%81%ae%e5%ae%9f%e6%96%bd%e6%96%b9%e6%b3%95%e3%81%a8%e5%9b%9e%e7%ad%94%e6%95%b0">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="主な募集場所">
+ 主な募集場所
+ &lt;a class="anchor" href="#%e4%b8%bb%e3%81%aa%e5%8b%9f%e9%9b%86%e5%a0%b4%e6%89%80">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://corp-engr.jp/">情シスSlack&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jnsa.org/">JNSA&lt;/a>、&lt;a href="https://isog-j.org/">ISOG-J&lt;/a>の有志メンバー&lt;/li>
+&lt;li>WGメンバーの会社内Slack/Teamsなど社内コミュニティ&lt;/li>
+&lt;li>他&lt;/li>
+&lt;/ul>
+&lt;h2 id="募集期間">
+ 募集期間
+ &lt;a class="anchor" href="#%e5%8b%9f%e9%9b%86%e6%9c%9f%e9%96%93">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>2023/12 上旬～2024/1 下旬&lt;/li>
+&lt;/ul>
+&lt;h2 id="有効回答数">
+ 有効回答数
+ &lt;a class="anchor" href="#%e6%9c%89%e5%8a%b9%e5%9b%9e%e7%ad%94%e6%95%b0">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;strong>38&lt;/strong>件&lt;/p></description></item><item><title>6.2 回答者の年齢層、経験年数、職種など</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section2/</guid><description>&lt;h1 id="62-回答者の年齢層経験年数職種など">
+ 6.2 回答者の年齢層、経験年数、職種など
+ &lt;a class="anchor" href="#62-%e5%9b%9e%e7%ad%94%e8%80%85%e3%81%ae%e5%b9%b4%e9%bd%a2%e5%b1%a4%e7%b5%8c%e9%a8%93%e5%b9%b4%e6%95%b0%e8%81%b7%e7%a8%ae%e3%81%aa%e3%81%a9">#&lt;/a>
+&lt;/h1>
+&lt;p>件数が38件であるため、統計的な意味で脆弱性診断士全体を回答者の特性として代表するわけではありませんが、本資料を作成するにあたって参考とした回答者の回答は以下の属性を有します&lt;/p>
+&lt;h2 id="年齢層">
+ 年齢層
+ &lt;a class="anchor" href="#%e5%b9%b4%e9%bd%a2%e5%b1%a4">#&lt;/a>
+&lt;/h2>
+&lt;p>30代が最も多く、20代～40代が中心となりました。&lt;/p>
+&lt;center>
+
+
+&lt;script src="https://webapppentestguidelines.github.io/CareerDesignGuide/mermaid.min.js">&lt;/script>
+
+ &lt;script>mermaid.initialize({
+ "flowchart": {
+ "useMaxWidth":true
+ },
+ "theme": "default"
+}
+)&lt;/script>
+
+
+
+
+&lt;pre class="mermaid">
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+ title 年齢構成
+ "20代" : 10
+ "30代" : 14
+ "40代" : 10
+ "50代" : 2
+ "60代～" : 1
+&lt;/pre>
+
+&lt;/center>
+&lt;h2 id="経験年数">
+ 経験年数
+ &lt;a class="anchor" href="#%e7%b5%8c%e9%a8%93%e5%b9%b4%e6%95%b0">#&lt;/a>
+&lt;/h2>
+&lt;p>1～3年が最も多く、10年以上も一定数いました。
+30代、40代の方でも、経験年数が短い方もいました。&lt;/p>
+&lt;center>
+
+
+&lt;pre class="mermaid">
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+ title 経験年数
+ "1～3年" : 14
+ "4～6年" : 13
+ "7～9年" : 5
+ "10年以上" : 5
+&lt;/pre>
+
+&lt;/center>
+&lt;h2 id="診断士を行う前の職種">
+ 診断士を行う前の職種
+ &lt;a class="anchor" href="#%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%82%92%e8%a1%8c%e3%81%86%e5%89%8d%e3%81%ae%e8%81%b7%e7%a8%ae">#&lt;/a>
+&lt;/h2>
+&lt;p>新卒から脆弱性診断士をやっている方が最も多く、その他エンジニア出身の方が目立ちました。&lt;/p></description></item></channel></rss>

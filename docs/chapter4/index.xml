@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第4章 脆弱性診断士の将来 on 脆弱性診断士のキャリアデザインガイド</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/</link><description>Recent content in 第4章 脆弱性診断士の将来 on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/index.xml" rel="self" type="application/rss+xml"/><item><title>4.1 身につくスキル、スキルの生かし方</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section1/</guid><description>&lt;h1 id="41-身につくスキルスキルの生かし方">
+ 4.1 身につくスキル、スキルの生かし方
+ &lt;a class="anchor" href="#41-%e8%ba%ab%e3%81%ab%e3%81%a4%e3%81%8f%e3%82%b9%e3%82%ad%e3%83%ab%e3%82%b9%e3%82%ad%e3%83%ab%e3%81%ae%e7%94%9f%e3%81%8b%e3%81%97%e6%96%b9">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="セキュリティの知識">
+ セキュリティの知識
+ &lt;a class="anchor" href="#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%81%ae%e7%9f%a5%e8%ad%98">#&lt;/a>
+&lt;/h2>
+&lt;p>脆弱性診断をしていると、日頃からバグが発生しやすいパターンや意図しない挙動をするシステムに遭遇することがあります。
+そのような経験を通じて、脆弱性が発生するメカニズムや対策についての知識が深まり、セキュアなシステム開発をするためのアドバイスや説明ができるようになります。&lt;/p>
+&lt;h2 id="論理的な思考">
+ 論理的な思考
+ &lt;a class="anchor" href="#%e8%ab%96%e7%90%86%e7%9a%84%e3%81%aa%e6%80%9d%e8%80%83">#&lt;/a>
+&lt;/h2>
+&lt;p>しばしば原因がわからないような脆弱性と向き合わなければならないこともあります。
+そういった際は、実際に起きた事象と仮説を分けて検証し、根本原因を分析する必要があります。
+このようなスキルは障害対応などにも役立ちます。&lt;/p>
+&lt;h2 id="コミュニケーションスキル">
+ コミュニケーションスキル
+ &lt;a class="anchor" href="#%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b9%e3%82%ad%e3%83%ab">#&lt;/a>
+&lt;/h2>
+&lt;p>脆弱性診断士は、様々な立場の人に向けて、診断結果を報告する必要があります。
+限られたコミュニケーションパスの中でいかにうまく伝えられるかという訓練を積むことになるため、意図した通りに伝える技術が向上します。&lt;/p></description></item><item><title>4.2 脆弱性診断技術の深掘り</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section2/</guid><description>&lt;h1 id="42-脆弱性診断技術の深掘り">
+ 4.2 脆弱性診断技術の深掘り
+ &lt;a class="anchor" href="#42-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e6%8a%80%e8%a1%93%e3%81%ae%e6%b7%b1%e6%8e%98%e3%82%8a">#&lt;/a>
+&lt;/h1>
+&lt;p>同じ脆弱性診断でも、診断の種別によって特徴が違います。&lt;/p>
+&lt;p>&lt;strong>プラットフォーム診断&lt;/strong>は、CVE番号が付いているような既知の脆弱性をツールを使って探すことが多いです。そのため、診断ツールの扱い方、危険度の判断やトリアージ、脆弱性情報の収集、攻撃の検証や脆弱性の修正方法についての知識などが必要で、業務をおこなっていく中でこれらのスキルが身についていきます。&lt;/p>
+&lt;p>&lt;strong>Webアプリケーション診断&lt;/strong>は、未知の脆弱性を探すことが多いです。どのようなシステムにでも応用できる、汎用的な攻撃手法に関するスキルが身につきます。また対象Webアプリケーションの特性や用途に応じた診断や危険度判断が必要なため、小売・金融・医療・不動産・行政など診断対象の業界に関する知識も勉強して身につけていくことになるでしょう。&lt;/p>
+&lt;p>その他、スマホアプリ・IoT・AI・OT（工場）・車・人工衛星などなど、さまざまなシステムを対象とした脆弱性診断が（件数は多くないかもしれませんが）あります。対応するにはそれに特化した、対象に関する知識や診断手法を身につける必要があります。脆弱性診断士として学べることはいくらでもあります。プラットフォーム診断だけではなくWebアプリケーション診断にチャレンジしてみるなど、意欲次第でいくらでも診断の幅を広げていくことができます。&lt;/p>
+&lt;p>ペネトレーションテストなど、あまり体系化されておらずツール化も限定的なテストでは、その場での判断が必要になるためアドリブ力が求められます。上記のような脆弱性に関する知識、攻撃手法に関する知識、対象システムに関する知識などを幅広く身につけ、多くの引き出しを持っていれば、現場で柔軟に判断し対応できるようになります。&lt;/p>
+&lt;p>上記のように診断の幅を広げていくだけではなく、深く掘り下げ、極めていく道もあります。
+たとえばWebアプリケーション診断であれば、以下の様な流れでスキルアップすることができるでしょう。&lt;/p>
+&lt;ol>
+&lt;li>ツールの見つけた脆弱性を精査するだけ&lt;/li>
+&lt;li>ツールと同等の脆弱性を、ツールに頼らず見つけられる&lt;/li>
+&lt;li>ツールが見つけられない脆弱性を手動で見つけられる&lt;/li>
+&lt;li>診断手法をブラッシュアップし、速度や検出率を上げる&lt;/li>
+&lt;li>未知の新たな診断手法を発明する&lt;/li>
+&lt;/ol></description></item><item><title>4.3 脆弱性診断以外のキャリアパスについて</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section3/</guid><description>&lt;h1 id="43-脆弱性診断以外のキャリアパスについて">
+ 4.3 脆弱性診断以外のキャリアパスについて
+ &lt;a class="anchor" href="#43-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e4%bb%a5%e5%a4%96%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%83%91%e3%82%b9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6">#&lt;/a>
+&lt;/h1>
+&lt;p>自分の持つスキルを他人に広げ、自分のチームや業界全体の発展に貢献していく業務もあります。&lt;/p>
+&lt;ul>
+&lt;li>診断スキルのトレーニングをする&lt;/li>
+&lt;li>手動で行っていたことをツール化し利用してもらう&lt;/li>
+&lt;li>他人の診断結果をレビューする&lt;/li>
+&lt;li>サービスオーナーとして、自社の診断サービスのサービスレベルを設計する&lt;/li>
+&lt;/ul>
+&lt;p>ソフトウェアの設計・開発業務に進む人もいます。&lt;/p>
+&lt;p>脆弱性診断を行っていたことでさまざまな脆弱性に関する知識が蓄えられていますので、それに対する対策を盛り込んだシステムの設計ができるでしょう。
+また、セキュアコーディングやテスト計画の策定にも知識が生かせるはずです。&lt;/p>
+&lt;p>脆弱性診断のエンジニアからコンサルタントや営業職に進む人もいます。&lt;/p>
+&lt;p>脆弱性診断をしていると、事前のサービスの提案や調整、報告会など顧客と会話する機会があります。
+同じ顧客と何度か親身になって話をしているうちに、開発体制の見直しや規程作成など次のステップを提案したり、別のシステムに関する相談事を受ける場合もあります。
+習得した知識・技術を活かし、的確な回答をすることができれば、顧客の信頼を得ることもできるでしょう。&lt;/p>
+&lt;p>マネジメント職に進む人もいます。&lt;/p>
+&lt;p>診断業務に理解があるので、部下の得意不得意を適切に見極め、最適なリソース配分ができると思います。
+また診断士が手を抜きがちなポイントや、案件でトラブルになりそうなポイントもわかっているので、事前に手を打っておくこともできます。
+さらにマネジメント・経営スキルを磨いていけば昇進していくことでしょう。&lt;/p></description></item><item><title>4.4 脆弱性診断業界がどのように変わっていくか？</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section4/</guid><description>&lt;h1 id="44-脆弱性診断業界がどのように変わっていくか">
+ 4.4 脆弱性診断業界がどのように変わっていくか？
+ &lt;a class="anchor" href="#44-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e6%a5%ad%e7%95%8c%e3%81%8c%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e5%a4%89%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%84%e3%81%8f%e3%81%8b">#&lt;/a>
+&lt;/h1>
+&lt;p>ソフトウェア開発におけるセキュリティの重要性は将来的にさらに求められていくと考えられるため、脆弱性診断の需要は高まっていくと予測されます。&lt;/p>
+&lt;p>ただし、脆弱性診断士を取り巻く環境は変化するでしょう。特に人間による単純作業のような診断業務は需要がなくなっていくと考えられます。理由として、AIによる診断の自動化や単純な脆弱性の減少が予測されるためです。&lt;/p>
+&lt;h2 id="aiによる診断の自動化">
+ AIによる診断の自動化
+ &lt;a class="anchor" href="#ai%e3%81%ab%e3%82%88%e3%82%8b%e8%a8%ba%e6%96%ad%e3%81%ae%e8%87%aa%e5%8b%95%e5%8c%96">#&lt;/a>
+&lt;/h2>
+&lt;p>現在、日本で主流となっている手動による診断に代わり、AIを活用したツールによる自動診断が増えていくと考えられます。これは、昨今の生成AI技術の普及により、検出精度の向上が予測されるためです。特に単純な脆弱性を検出する診断業務に関しては人間よりもツールの方が高速に検出できるためより重宝されていくと考えられます。&lt;/p>
+&lt;p>また、生成AIの活用により診断業務以外にも幅広いサービスを提供できるようになると予測されます。そのため、診断業務のいくつかはツールに置き換わっていくと考えられます。&lt;/p>
+&lt;h2 id="単純な脆弱性の減少">
+ 単純な脆弱性の減少
+ &lt;a class="anchor" href="#%e5%8d%98%e7%b4%94%e3%81%aa%e8%84%86%e5%bc%b1%e6%80%a7%e3%81%ae%e6%b8%9b%e5%b0%91">#&lt;/a>
+&lt;/h2>
+&lt;p>昨今のアプリケーションの開発ではフレームワークが利用されています。これらのフレームワークでは脆弱性を作りこまない仕組みが提供されています。今後もアプリ開発ではこれらのフレームワークが利用されて開発されていくため、単純な脆弱性は作り込まれづらくなっていき、減少していくと考えられます。そのことからも単純な脆弱性を探す業務は縮小していくと思われます。&lt;/p>
+&lt;p>診断に関する需要が高まる一方で、脆弱性診断士に期待される業務や能力は変化していくと思われます。将来的に求められるものとして、ツールでできない領域や高度な専門技術を必要とする診断ができる能力だと考えられます。また、生成AIなど新しい技術の活用は新しいセキュリティリスクの発生につながる可能性があります。そのため、その領域での脆弱性診断の需要が高まっていくことが考えられます。なので、新しい技術領域に関して積極的にキャッチアップを行い、自身の能力を高めるのが重要です。&lt;/p></description></item></channel></rss>

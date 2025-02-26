@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第3章 脆弱性診断士の実態 on 脆弱性診断士のキャリアデザインガイド</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/</link><description>Recent content in 第3章 脆弱性診断士の実態 on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/index.xml" rel="self" type="application/rss+xml"/><item><title>3.1 どのような業務内容か</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section1/</guid><description>&lt;h1 id="31-どのような業務内容か">
+ 3.1 どのような業務内容か
+ &lt;a class="anchor" href="#31-%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%a5%ad%e5%8b%99%e5%86%85%e5%ae%b9%e3%81%8b">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="具体的な業務内容と作業の流れ">
+ 具体的な業務内容と作業の流れ
+ &lt;a class="anchor" href="#%e5%85%b7%e4%bd%93%e7%9a%84%e3%81%aa%e6%a5%ad%e5%8b%99%e5%86%85%e5%ae%b9%e3%81%a8%e4%bd%9c%e6%a5%ad%e3%81%ae%e6%b5%81%e3%82%8c">#&lt;/a>
+&lt;/h2>
+&lt;p>以下は一般的な脆弱性診断士の業務の流れです。&lt;/p>
+&lt;h3 id="1-診断対象に関するヒアリング">
+ 1. 診断対象に関するヒアリング
+ &lt;a class="anchor" href="#1-%e8%a8%ba%e6%96%ad%e5%af%be%e8%b1%a1%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%83%92%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0">#&lt;/a>
+&lt;/h3>
+&lt;p>脆弱性診断対象の関係者（顧客やシステム担当者）から、診断対象となるシステム・アプリケーションに関する情報・診断に関する要求内容についてヒアリングします。ヒアリングした内容を基に、実施が必要な脆弱性診断の種別や診断実施に必要となる条件などを提示して、関係者から合意を得ます。&lt;/p>
+&lt;h3 id="2-工数の算出">
+ 2. 工数の算出
+ &lt;a class="anchor" href="#2-%e5%b7%a5%e6%95%b0%e3%81%ae%e7%ae%97%e5%87%ba">#&lt;/a>
+&lt;/h3>
+&lt;p>この工程では、診断に必要となる工数を算出します。工数算出の方法については、実施する診断の種別ごとに異なります。例えばWebアプリケーションの診断であれば、診断対象のWebアプリケーションをクローリングして、HTTPリクエストの数を数えて工数を算出することが一般的です。プラットフォームの診断であれば実施する診断対象のIPアドレスの数を基に工数を算出することが一般的でしょう。また、診断を実施する環境や制約事項などによって工数が変動する可能性もあるため、必要となる作業や情報について、関係者と調整した上で、工数を算出します。&lt;/p>
+&lt;h3 id="3-診断の事前調整">
+ 3. 診断の事前調整
+ &lt;a class="anchor" href="#3-%e8%a8%ba%e6%96%ad%e3%81%ae%e4%ba%8b%e5%89%8d%e8%aa%bf%e6%95%b4">#&lt;/a>
+&lt;/h3>
+&lt;p>算出した工数を基に、関係者と診断を実施する日程を決定します。診断を実施するにあたって必要な準備や注意事項などを、説明した上で関係者と入念な調整を行います。&lt;/p>
+&lt;h3 id="4-診断作業">
+ 4. 診断作業
+ &lt;a class="anchor" href="#4-%e8%a8%ba%e6%96%ad%e4%bd%9c%e6%a5%ad">#&lt;/a>
+&lt;/h3>
+&lt;p>事前に取り決めた日程で、予定した診断作業を実施します。診断を実施する中で、システム管理者側での確認や対応が必要な事象が発生した場合には、都度関係者と調整を行いながら作業を進めます。また、危険度の高い脆弱性が検出された場合などには、事前の取り決めに従って診断期間中に速報として関係者側に連絡する必要があるかもしれません。検出した脆弱性ごとに、報告書を作成するために必要な証跡を取得します。&lt;/p>
+&lt;h3 id="5-報告書作成">
+ 5. 報告書作成
+ &lt;a class="anchor" href="#5-%e5%a0%b1%e5%91%8a%e6%9b%b8%e4%bd%9c%e6%88%90">#&lt;/a>
+&lt;/h3>
+&lt;p>診断作業にて検出した脆弱性について、診断実施者が取得した証跡を利用して報告書にまとめます。報告書については所属組織ごとに雛型や記載すべき内容が取り決められており、作成した報告書を他担当者がレビューして確認するなどを行うことが一般的でしょう。事前に取り決めた納期に従って報告書を作成して、関係者に提出します。&lt;/p>
+&lt;h3 id="6-報告会の実施">
+ 6. 報告会の実施
+ &lt;a class="anchor" href="#6-%e5%a0%b1%e5%91%8a%e4%bc%9a%e3%81%ae%e5%ae%9f%e6%96%bd">#&lt;/a>
+&lt;/h3>
+&lt;p>診断の結果について関係者に対して報告を行います。報告会には診断対象のシステムやアプリケーションの開発者が同席するケースも多く、検出した脆弱性のリスクや対策方法などに関して質問されることも多いでしょう。なお、報告会については、必ず実施するわけではなく、関係者側の要望によって実施しない場合もあります。&lt;/p>
+&lt;h3 id="7-診断実施後">
+ 7. 診断実施後
+ &lt;a class="anchor" href="#7-%e8%a8%ba%e6%96%ad%e5%ae%9f%e6%96%bd%e5%be%8c">#&lt;/a>
+&lt;/h3>
+&lt;p>報告会を実施した後にも、診断結果について関係者から問い合わせがあることも良くあり、サポートを行うこともあるでしょう。また、脆弱性の修正を行った後に、適切に対策されているか確認するために再診断を依頼されたり、当初から実施が条件として盛り込まれているケースも多いでしょう。&lt;/p>
+&lt;p>なお、近年では分業化が進んでいる傾向があり、調整作業と診断作業を実施する担当者が分かれているケースなども多く、部分的な工程のみを実施することもあるでしょう。&lt;/p>
+&lt;h2 id="プロジェクトの期間">
+ プロジェクトの期間
+ &lt;a class="anchor" href="#%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%81%ae%e6%9c%9f%e9%96%93">#&lt;/a>
+&lt;/h2>
+&lt;p>脆弱性診断のプロジェクトの期間については、診断対象の規模や条件などによって様々です。小規模のものでは数週間、大規模なプロジェクトでは数カ月かかることもあります。ただし、半年から1年以上かかることが一般的なコンサルティングなどのプロジェクトと比べれば、プロジェクト期間は短期的であるといえるでしょう。&lt;/p></description></item><item><title>3.2 セキュリティサービス事業者とユーザー企業</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section2/</guid><description>&lt;h1 id="32-セキュリティサービス事業者とユーザー企業">
+ 3.2 セキュリティサービス事業者とユーザー企業
+ &lt;a class="anchor" href="#32-%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%ba%8b%e6%a5%ad%e8%80%85%e3%81%a8%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e4%bc%81%e6%a5%ad">#&lt;/a>
+&lt;/h1>
+&lt;p>セキュリティサービス事業者に所属する脆弱性診断士とユーザー企業内のセキュリティチームに所属する脆弱性診断士とでは脆弱性を見つけるという部分では共通ですが、その役割や対象が異なります。&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>セキュリティサービス事業者の脆弱性診断士&lt;/th>
+ &lt;th>ユーザー企業の脆弱性診断士&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ステークホルダー&lt;/td>
+ &lt;td>クライアント&lt;/td>
+ &lt;td>開発部門/運用部門&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>診断の対象&lt;/td>
+ &lt;td>様々な業界のシステム、ネットワーク、アプリケーション&lt;/td>
+ &lt;td>自社のシステム、ネットワーク、アプリケーション&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>役割&lt;/td>
+ &lt;td>クライアント企業のシステムやネットワークの脆弱性を診断し、改善策を提案する。多様な業界やシステムに対応し、外部からの視点でセキュリティを強化する。&lt;/td>
+ &lt;td>社内の他部門と連携し、設計レビューや教育を通じてセキュリティ品質の向上を図る。&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>3.3 業務時間</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section3/</guid><description>&lt;h1 id="33-業務時間">
+ 3.3 業務時間
+ &lt;a class="anchor" href="#33-%e6%a5%ad%e5%8b%99%e6%99%82%e9%96%93">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="業務時間について">
+ 業務時間について
+ &lt;a class="anchor" href="#%e6%a5%ad%e5%8b%99%e6%99%82%e9%96%93%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6">#&lt;/a>
+&lt;/h2>
+&lt;p>業務時間は1日8時間勤務、勤務時間は平日日中10:00から18:00が基準となることが多いです。というのも、お客様のシステムへ脆弱性診断を実施時にサービスを停止させてしまう等のトラブルが発生した際にはすぐに担当者へ連絡が取れるようにしておく必要があるため、一般的な企業と同じ時間で設定されています。&lt;/p>
+&lt;h2 id="夜間作業">
+ 夜間作業
+ &lt;a class="anchor" href="#%e5%a4%9c%e9%96%93%e4%bd%9c%e6%a5%ad">#&lt;/a>
+&lt;/h2>
+&lt;p>一方で、システムによっては夜間のバッチ等でユーザがサービスを利用していない時間帯に脆弱性診断と実施しなければならない場合もあり、深夜作業(22:00-5:00)がしばしば発生する場合もあります。&lt;/p>
+&lt;h2 id="平均した残業時間">
+ 平均した残業時間
+ &lt;a class="anchor" href="#%e5%b9%b3%e5%9d%87%e3%81%97%e3%81%9f%e6%ae%8b%e6%a5%ad%e6%99%82%e9%96%93">#&lt;/a>
+&lt;/h2>
+&lt;p>残業時間については担当しているシステムに依存します。ISOG-Jで実施した脆弱性診断士のアンケートでは、月の業務時間が150～180時間と回答されている方が多く見受けられました。&lt;/p></description></item><item><title>3.4 年収、待遇などについて</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section4/</guid><description>&lt;h1 id="34-年収待遇などについて">
+ 3.4 年収、待遇などについて
+ &lt;a class="anchor" href="#34-%e5%b9%b4%e5%8f%8e%e5%be%85%e9%81%87%e3%81%aa%e3%81%a9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="年収">
+ 年収
+ &lt;a class="anchor" href="#%e5%b9%b4%e5%8f%8e">#&lt;/a>
+&lt;/h2>
+&lt;p>年収については、所属する企業によって大きく左右されるため一概には言えませんが、今回脆弱性診断士向けに取ったアンケートにおいては、スキルを発揮し、1,000万円を越える年収を得ている方もいました。&lt;/p>
+&lt;h2 id="資格補助">
+ 資格補助
+ &lt;a class="anchor" href="#%e8%b3%87%e6%a0%bc%e8%a3%9c%e5%8a%a9">#&lt;/a>
+&lt;/h2>
+&lt;p>スキルの向上のために資格手当に際しての講習受講の費用補助や資格取得による手当を期待する声も多くありました。セキュリティの資格は、講習と受検日を含めて100万円を越える資格も多くあることから、スキル向上の意欲があれば、資格補助があることで実質年収は実際にはもう少し高いと捉えることもできるでしょう。&lt;/p>
+&lt;ul>
+&lt;li>資格取得補助&lt;/li>
+&lt;li>遠方でのセミナー/カンファレンス(BlackHatなど)参加費用補助&lt;/li>
+&lt;/ul>
+&lt;p>など&lt;/p>
+&lt;p>実際にアンケートにおいても、ほとんどの方が資格取得に対しては関心が強く、高度なセキュリティ資格を保有されている方も多くいました。それだけ福利厚生としての資格取得補助も期待されるとも言えるでしょう。&lt;/p>
+&lt;h2 id="キャリアアップ">
+ キャリアアップ
+ &lt;a class="anchor" href="#%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%82%a2%e3%83%83%e3%83%97">#&lt;/a>
+&lt;/h2>
+&lt;p>キャリアアップのためには、ツールを回して診断結果を並べるだけではなく、手動の診断の要素を加えたり、検出した診断結果を独自に考察するなど、他診断士との差別化になるような技術なノウハウが必要になります。&lt;/p></description></item><item><title>3.5 仕事環境</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section5/</guid><description>&lt;h1 id="35-仕事環境">
+ 3.5 仕事環境
+ &lt;a class="anchor" href="#35-%e4%bb%95%e4%ba%8b%e7%92%b0%e5%a2%83">#&lt;/a>
+&lt;/h1>
+&lt;p>一般的には、脆弱性診断士は比較的リモートワークがしやすい職種です。アンケートにおいては、診断士に転向することでリモートワークが増えた、現在フルリモートである、という声がありました。
+仕事環境を左右するものは、診断対象であったり、顧客との接触頻度などがあります。&lt;/p>
+&lt;ul>
+&lt;li>診断対象がWebアプリケーションなどの場合は、基本的にはテレワークでの業務遂行も可能となります。ただし、IoTデバイスやスマートフォンや制御機器など、ハードウェアデバイスが存在するような対象の診断の場合においては、逆にほぼリモートワークがないということもあります。&lt;/li>
+&lt;li>お客様とのやり取りに関して、診断に関しての打ち合わせで合ったり、診断完了後の報告会などついては、対面で実施する機会も多くなります。しかし、比率としては、クライアントワークよりも、診断対象と向き合う時間のほうが基本的に長いでしょう。&lt;/li>
+&lt;/ul>
+&lt;p>ただし、ユーザー企業ではその企業に大きく左右されますし、企業の文化としての仕事環境に依るというところは、ほかの職種と同じです。&lt;/p></description></item><item><title>3.6 スキルアップや自己研鑽の方法</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section6/</guid><description>&lt;h1 id="36-スキルアップや自己研鑽の方法">
+ 3.6 スキルアップや自己研鑽の方法
+ &lt;a class="anchor" href="#36-%e3%82%b9%e3%82%ad%e3%83%ab%e3%82%a2%e3%83%83%e3%83%97%e3%82%84%e8%87%aa%e5%b7%b1%e7%a0%94%e9%91%bd%e3%81%ae%e6%96%b9%e6%b3%95">#&lt;/a>
+&lt;/h1>
+&lt;p>手が空いている時期には自身のスキルアップを目的にした自己研鑽に時間を割いているようです。
+主に自己研鑽のアプローチとして2つあります。&lt;/p>
+&lt;h2 id="独学による自己研鑽">
+ 独学による自己研鑽
+ &lt;a class="anchor" href="#%e7%8b%ac%e5%ad%a6%e3%81%ab%e3%82%88%e3%82%8b%e8%87%aa%e5%b7%b1%e7%a0%94%e9%91%bd">#&lt;/a>
+&lt;/h2>
+&lt;p>手段として下記のような方法があります。&lt;/p>
+&lt;ul>
+&lt;li>書籍&lt;/li>
+&lt;li>UdemyやYoutubeによる動画コンテンツ&lt;/li>
+&lt;li>セキュリティに関するドキュメントやブログ記事&lt;/li>
+&lt;li>資格の取得&lt;/li>
+&lt;/ul>
+&lt;p>これらの自己研鑽は自身で学習要件やゴールを決めて実施するものとなります。セキュリティに関するもの以外にもフレームワークやプログラム言語などの周辺技術に関するものも学んでいます。&lt;/p>
+&lt;p>特定の技術セットや情報が少ないものを学びたい場合には、UdemyやYoutubeなどの動画コンテンツの活用がおすすめです。これらのコンテンツでは様々な内容が公開されており、自身が学びたいスキルを選択できるので非常に有益な手段と言えます。また、特定の技術に関して学ぶ以外にも公開されている脆弱性情報やインシデント事例を読んで学習するのも良いでしょう。脆弱性やインシデントに関しては類似の事例が発生しやすいため、原因や仕組みを理解することで実業務に活用できます。&lt;/p>
+&lt;h2 id="参加による自己研鑽">
+ 参加による自己研鑽
+ &lt;a class="anchor" href="#%e5%8f%82%e5%8a%a0%e3%81%ab%e3%82%88%e3%82%8b%e8%87%aa%e5%b7%b1%e7%a0%94%e9%91%bd">#&lt;/a>
+&lt;/h2>
+&lt;p>手段として下記のような方法があります。&lt;/p>
+&lt;ul>
+&lt;li>セキュリティの勉強会やイベントへの参加&lt;/li>
+&lt;li>トレーニングへの参加&lt;/li>
+&lt;li>技術競技への参加(CTFやHardeningなど)&lt;/li>
+&lt;/ul>
+&lt;p>これらの自己研鑽は学習要件や学習コンテンツが提供されているものが多いです。ゴールや時間を設定されているものが多いため、特定の期間で効率的に学習を進められます。特に技術競技やトレーニングは、実際に手を動かす必要が出てくるため学びを深めるのに有効的な手段です。また、勉強会やイベントでは最新の情報が共有されることも多いので、自身の知見のアップデートに役立つでしょう。&lt;/p>
+&lt;p>手が空いている時間では、上記の自己研鑽の手段を組み合わせて、知見を広げ自身の業務に活用しています。書籍やイベント、トレーニングに関して具体的なものについては5章で紹介しています。&lt;/p></description></item><item><title>3.7 どのような組織で脆弱性診断が必要とされているのか</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section7/</guid><description>&lt;h1 id="37-どのような組織で脆弱性診断が必要とされているのか">
+ 3.7 どのような組織で脆弱性診断が必要とされているのか
+ &lt;a class="anchor" href="#37-%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e7%b5%84%e7%b9%94%e3%81%a7%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e3%81%8c%e5%bf%85%e8%a6%81%e3%81%a8%e3%81%95%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%8b">#&lt;/a>
+&lt;/h1>
+&lt;p>サイバーセキュリティに関する各種ガイドラインにおいて、サイバー攻撃に備えるために脆弱性診断の実施が推奨されています。
+例えば、以下のように、政府情報システムに対してどのように脆弱性診断を実施するべきかを詳細にまとめたガイドラインなども公開されています。&lt;/p>
+&lt;p>政府情報システムにおける脆弱性診断導入ガイドライン&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7fefc9ee/20240206_resources_standard_guidelines_guidelines_01.pdf">https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/7fefc9ee/20240206_resources_standard_guidelines_guidelines_01.pdf&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>上記のような背景から、近年では脆弱性診断の必要性は広く認知されている状況となっています。
+ITシステムを利用している多くの企業では、一般的には以下のようなルールを定めて脆弱性診断を実施しているケースが多いでしょう。&lt;/p>
+&lt;ul>
+&lt;li>開発したシステムのリリースや、導入するシステムの受け入れ時などに脆弱性診断を実施&lt;/li>
+&lt;li>年に一回などの間隔で定期的な脆弱性診断を実施&lt;/li>
+&lt;/ul>
+&lt;p>そのため、特に業種などは限定せず、多くの企業にて脆弱性診断の実施が必要とされています。&lt;/p></description></item><item><title>3.8 経験談（経験、やっていてよかったこと）</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section8/</guid><description>&lt;h1 id="38-経験談経験やっていてよかったこと">
+ 3.8 経験談（経験、やっていてよかったこと）
+ &lt;a class="anchor" href="#38-%e7%b5%8c%e9%a8%93%e8%ab%87%e7%b5%8c%e9%a8%93%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%a6%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8">#&lt;/a>
+&lt;/h1>
+&lt;p>Webアプリケーションやネットワークに対して広い知識を身につけることができます。
+ISOG-Jで実施した脆弱性診断士のアンケートでは、以下のような回答が多くみられました。&lt;/p>
+&lt;h2 id="現在までに脆弱性診断の経験が活きたと思われる業務">
+ 現在までに脆弱性診断の経験が活きたと思われる業務
+ &lt;a class="anchor" href="#%e7%8f%be%e5%9c%a8%e3%81%be%e3%81%a7%e3%81%ab%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e3%81%ae%e7%b5%8c%e9%a8%93%e3%81%8c%e6%b4%bb%e3%81%8d%e3%81%9f%e3%81%a8%e6%80%9d%e3%82%8f%e3%82%8c%e3%82%8b%e6%a5%ad%e5%8b%99">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Webアプリケーション開発&lt;/li>
+&lt;li>CSIRT対応&lt;/li>
+&lt;li>品質管理・テスト業務&lt;/li>
+&lt;/ul>
+&lt;p>とはいえ、新卒から脆弱性診断士として働いている方も多く、どの分野からでもジョブチェンジの可能性がある職といえます。&lt;/p>
+&lt;h2 id="やっていてよかったこと">
+ やっていてよかったこと
+ &lt;a class="anchor" href="#%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%a6%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8">#&lt;/a>
+&lt;/h2>
+&lt;p>脆弱性診断士としての業務に携わるうちに、Webアプリケーション開発知識や開発経験に始まり、TCP/IPやネットワークの知識や構築経験も身につけることができます。
+診断で検出した脆弱性はその挙動を追跡するために検証環境を用意する機会が多いです。そのため、自分でコードやTCP/IP仕様を学ぶことから広い知識を得ることが可能です。&lt;/p>
+&lt;p>また、脆弱性診断士は脆弱性発見の技術だけではなく、お客様との調整や、報告書を作成する過程でチームメンバーとのコミュニケーションを行うため、ドキュメント作成能力やマネジメント力も身につきます。&lt;/p></description></item><item><title>3.9 脆弱性診断士の愚痴</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section9/</guid><description>&lt;h1 id="39-脆弱性診断士の愚痴">
+ 3.9 脆弱性診断士の愚痴
+ &lt;a class="anchor" href="#39-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ae%e6%84%9a%e7%97%b4">#&lt;/a>
+&lt;/h1>
+&lt;p>脆弱性診断の診断の現場は楽しいばかりではありません。以下のように色々苦労することにも直面します。&lt;/p>
+&lt;h2 id="折角脆弱性を見つけたのに">
+ 折角脆弱性を見つけたのに…
+ &lt;a class="anchor" href="#%e6%8a%98%e8%a7%92%e8%84%86%e5%bc%b1%e6%80%a7%e3%82%92%e8%a6%8b%e3%81%a4%e3%81%91%e3%81%9f%e3%81%ae%e3%81%ab">#&lt;/a>
+&lt;/h2>
+&lt;p>脆弱性を発見することで感謝いただけるケースも多いですが、問題を発見したことで担当者がその対応に追われてしまうことや修正コストが発生するために、残念ながら現実にはネガティブに受け止められてしまうケースもあります。&lt;/p>
+&lt;h2 id="過去からの刺客がやってくることも">
+ 過去からの刺客がやってくることも
+ &lt;a class="anchor" href="#%e9%81%8e%e5%8e%bb%e3%81%8b%e3%82%89%e3%81%ae%e5%88%ba%e5%ae%a2%e3%81%8c%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8b%e3%81%93%e3%81%a8%e3%82%82">#&lt;/a>
+&lt;/h2>
+&lt;p>定期的な脆弱性診断を実施する場合に、同じ個所を診断した際に過去の診断では見つからなかった新しい脆弱性を見つけたことにより苦しんでしまうケースがあるかもしれません。&lt;/p>
+&lt;p>もちろん改修などにより新たな脆弱性が発現してしまったケースや新しい検査パターンなどにより検出された可能性もあるでしょう。ただ、当然前回の診断での検出漏れの可能性もあるため、精神を落ち着けながら、正しく状況を見極める必要があるでしょう。&lt;/p>
+&lt;h2 id="脆弱性探すのは楽しいけどなかなか大変">
+ 脆弱性探すのは楽しいけど、なかなか大変
+ &lt;a class="anchor" href="#%e8%84%86%e5%bc%b1%e6%80%a7%e6%8e%a2%e3%81%99%e3%81%ae%e3%81%af%e6%a5%bd%e3%81%97%e3%81%84%e3%81%91%e3%81%a9%e3%81%aa%e3%81%8b%e3%81%aa%e3%81%8b%e5%a4%a7%e5%a4%89">#&lt;/a>
+&lt;/h2>
+&lt;p>診断対象となるシステムの規模が大きい場合には、網羅的に脆弱性を洗い出すために多くの反復的な作業を実施しなければならないこともあるでしょう。&lt;/p>
+&lt;p>大量の脆弱性を検出してしまったことで、確認や報告書をまとめることに苦労するケースもあると思います。また、ゲームなどとは違い必ずゴールが用意されているわけではありません。時には全く脆弱性が検出されない状況で、くじけぬ心をもって黙々と作業を行わないといけないこともあるでしょう。&lt;/p>
+&lt;h2 id="高品質かつ非破壊非影響が求められます">
+ 高品質かつ非破壊・非影響が求められます
+ &lt;a class="anchor" href="#%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%8b%e3%81%a4%e9%9d%9e%e7%a0%b4%e5%a3%8a%e9%9d%9e%e5%bd%b1%e9%9f%bf%e3%81%8c%e6%b1%82%e3%82%81%e3%82%89%e3%82%8c%e3%81%be%e3%81%99">#&lt;/a>
+&lt;/h2>
+&lt;p>日本国内では海外とは異なり、ツールだけではなく手動を併用してかつ網羅的に脆弱性を検出するような高品質な脆弱性診断が求められる傾向があります（海外ではこういった手動での診断はペネトレーションテストにカテゴライズされているケースも多いです）。&lt;/p>
+&lt;p>さらに大前提として対象システムには影響を与えない非破壊・非影響なことが条件として求められます。そのため、影響を与えるような行為を避けつつ、網羅的に診断の行うための知識の習得や事前の対策などが必要でしょう。また、技術的な側面だけではなく、トラブルを回避するためにシステム担当者に対して、事前の説明や入念な調整などを行う必要があり、苦労することがあるでしょう。&lt;/p>
+&lt;h2 id="診断の対象となるシステムは自分では選べません">
+ 診断の対象となるシステムは自分では選べません
+ &lt;a class="anchor" href="#%e8%a8%ba%e6%96%ad%e3%81%ae%e5%af%be%e8%b1%a1%e3%81%a8%e3%81%aa%e3%82%8b%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%81%af%e8%87%aa%e5%88%86%e3%81%a7%e3%81%af%e9%81%b8%e3%81%b9%e3%81%be%e3%81%9b%e3%82%93">#&lt;/a>
+&lt;/h2>
+&lt;p>プロフェッショナルの脆弱性診断士は、どのようなシステムが目の前に現れても相手をしなければなりません。診断士の立ち位置にもよりますが、多種多様なシステムに対して診断することで、多くの技術に触れられる機会があると思います。&lt;/p>
+&lt;p>ただその反面、予想もできない強敵（とんでもない仕様のシステム）があなたの目の前に現れ、苦い経験をすることになるかもしれません。&lt;/p></description></item><item><title>3.10 なぜ脆弱性診断士になろうとしたのか</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section10/</guid><description>&lt;h1 id="310-なぜ脆弱性診断士になろうとしたのか">
+ 3.10 なぜ脆弱性診断士になろうとしたのか
+ &lt;a class="anchor" href="#310-%e3%81%aa%e3%81%9c%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ab%e3%81%aa%e3%82%8d%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f%e3%81%ae%e3%81%8b">#&lt;/a>
+&lt;/h1>
+&lt;p>脆弱性診断士を目指すきっかけは人それぞれです。ドラマなどで見るいわゆるハッカーにあこがれて志す人もいれば、普段の業務や学校での授業の中からセキュリティに興味を持ち、志す人もいるでしょう。&lt;/p>
+&lt;h2 id="世の中で発生しているサイバー攻撃からの興味">
+ 世の中で発生しているサイバー攻撃からの興味
+ &lt;a class="anchor" href="#%e4%b8%96%e3%81%ae%e4%b8%ad%e3%81%a7%e7%99%ba%e7%94%9f%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%82%b5%e3%82%a4%e3%83%90%e3%83%bc%e6%94%bb%e6%92%83%e3%81%8b%e3%82%89%e3%81%ae%e8%88%88%e5%91%b3">#&lt;/a>
+&lt;/h2>
+&lt;p>サイバー攻撃が頻繁に報じられる現代において、攻撃の手法やその影響を知ることで、どのようにしてこれらの脅威からシステムを守ることができるのかに興味が湧き、脆弱性診断士に興味を持つきっかけとなります。&lt;/p>
+&lt;h2 id="キャリアチェンジ">
+ キャリアチェンジ
+ &lt;a class="anchor" href="#%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8">#&lt;/a>
+&lt;/h2>
+&lt;p>ソフトウェア開発者など、セキュリティにふれる機会のある役割をバックグラウンドとして持つ場合、その経験の中でセキュリティの重要性を痛感することが多くあり、それが脆弱性診断士に興味をもつきっかけとなります。脆弱性診断士に転職する前の仕事として代表的なものは次のものが挙げられます。&lt;/p>
+&lt;ul>
+&lt;li>品質管理担当者&lt;/li>
+&lt;li>ソフトウェアエンジニア&lt;/li>
+&lt;li>ネットワークエンジニア&lt;/li>
+&lt;li>SOC、CSIRT運用者&lt;/li>
+&lt;li>情報システム担当者&lt;/li>
+&lt;/ul>
+&lt;h2 id="ドラマなどからの影響">
+ ドラマなどからの影響
+ &lt;a class="anchor" href="#%e3%83%89%e3%83%a9%e3%83%9e%e3%81%aa%e3%81%a9%e3%81%8b%e3%82%89%e3%81%ae%e5%bd%b1%e9%9f%bf">#&lt;/a>
+&lt;/h2>
+&lt;p>テレビドラマや映画で描かれるサイバーセキュリティの世界は、緊迫感やスリルに満ちています。これらの作品を通じて、セキュリティ専門家がシステムを守る姿に触れ、その仕事にかっこいいイメージを持ち、脆弱性診断士にも興味を持つきっかけとなります。&lt;/p></description></item></channel></rss>
