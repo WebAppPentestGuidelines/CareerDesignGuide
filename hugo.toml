@@ -1,4 +1,4 @@
-baseURL = 'https://webapppentestguidelines.github.io/CareerDesignGuide/'
+baseURL = 'https://wg1.isog-j.org/CareerDesignGuide/'
 defaultContentLanguage = 'ja'
 languageCode = 'ja'
 title = '脆弱性診断士のキャリアデザインガイド'
