@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第6章 アンケート回答者の属性 on 脆弱性診断士のキャリアデザインガイド</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/</link><description>Recent content in 第6章 アンケート回答者の属性 on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/index.xml" rel="self" type="application/rss+xml"/><item><title>6.1 アンケートの実施方法と回答数</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section1/</guid><description>&lt;h1 id="61-アンケートの実施方法と回答数">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第6章 アンケート回答者の属性 on 脆弱性診断士のキャリアデザインガイド</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/</link><description>Recent content in 第6章 アンケート回答者の属性 on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/index.xml" rel="self" type="application/rss+xml"/><item><title>6.1 アンケートの実施方法と回答数</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/section1/</guid><description>&lt;h1 id="61-アンケートの実施方法と回答数">
  6.1 アンケートの実施方法と回答数
  &lt;a class="anchor" href="#61-%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e3%81%ae%e5%ae%9f%e6%96%bd%e6%96%b9%e6%b3%95%e3%81%a8%e5%9b%9e%e7%ad%94%e6%95%b0">#&lt;/a>
 &lt;/h1>
@@ -23,7 +23,7 @@
  有効回答数
  &lt;a class="anchor" href="#%e6%9c%89%e5%8a%b9%e5%9b%9e%e7%ad%94%e6%95%b0">#&lt;/a>
 &lt;/h2>
-&lt;p>&lt;strong>38&lt;/strong>件&lt;/p></description></item><item><title>6.2 回答者の年齢層、経験年数、職種など</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section2/</guid><description>&lt;h1 id="62-回答者の年齢層経験年数職種など">
+&lt;p>&lt;strong>38&lt;/strong>件&lt;/p></description></item><item><title>6.2 回答者の年齢層、経験年数、職種など</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/section2/</guid><description>&lt;h1 id="62-回答者の年齢層経験年数職種など">
  6.2 回答者の年齢層、経験年数、職種など
  &lt;a class="anchor" href="#62-%e5%9b%9e%e7%ad%94%e8%80%85%e3%81%ae%e5%b9%b4%e9%bd%a2%e5%b1%a4%e7%b5%8c%e9%a8%93%e5%b9%b4%e6%95%b0%e8%81%b7%e7%a8%ae%e3%81%aa%e3%81%a9">#&lt;/a>
 &lt;/h1>
@@ -36,7 +36,7 @@
 &lt;center>
 
 
-&lt;script src="https://webapppentestguidelines.github.io/CareerDesignGuide/mermaid.min.js">&lt;/script>
+&lt;script src="https://wg1.isog-j.org/CareerDesignGuide/mermaid.min.js">&lt;/script>
 
  &lt;script>mermaid.initialize({
  "flowchart": {

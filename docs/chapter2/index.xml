@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第2章 あなたも脆弱性診断士に！ on 脆弱性診断士のキャリアデザインガイド</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/</link><description>Recent content in 第2章 あなたも脆弱性診断士に！ on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/index.xml" rel="self" type="application/rss+xml"/><item><title>2.1 セキュリティエンジニアの入口に最適な仕事</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section1/</guid><description>&lt;h1 id="21-セキュリティエンジニアの入口に最適な仕事">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第2章 あなたも脆弱性診断士に！ on 脆弱性診断士のキャリアデザインガイド</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/</link><description>Recent content in 第2章 あなたも脆弱性診断士に！ on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/index.xml" rel="self" type="application/rss+xml"/><item><title>2.1 セキュリティエンジニアの入口に最適な仕事</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section1/</guid><description>&lt;h1 id="21-セキュリティエンジニアの入口に最適な仕事">
  2.1 セキュリティエンジニアの入口に最適な仕事
  &lt;a class="anchor" href="#21-%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%81%ae%e5%85%a5%e5%8f%a3%e3%81%ab%e6%9c%80%e9%81%a9%e3%81%aa%e4%bb%95%e4%ba%8b">#&lt;/a>
 &lt;/h1>
@@ -17,7 +17,7 @@
 &lt;li>セキュリティの事象や問題に対する解像度が高まる&lt;/li>
 &lt;li>セキュリティエンジニアとして倫理的に正しい行動を取るための基盤が築かれる&lt;/li>
 &lt;li>OJTやトレーニングカリキュラムが整っている&lt;/li>
-&lt;/ul></description></item><item><title>2.2 どういう人が脆弱性診断士に向いているか</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section2/</guid><description>&lt;h1 id="22-どういう人が脆弱性診断士に向いているか">
+&lt;/ul></description></item><item><title>2.2 どういう人が脆弱性診断士に向いているか</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section2/</guid><description>&lt;h1 id="22-どういう人が脆弱性診断士に向いているか">
  2.2 どういう人が脆弱性診断士に向いているか
  &lt;a class="anchor" href="#22-%e3%81%a9%e3%81%86%e3%81%84%e3%81%86%e4%ba%ba%e3%81%8c%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ab%e5%90%91%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8b">#&lt;/a>
 &lt;/h1>
@@ -29,7 +29,7 @@
 &lt;li>&lt;strong>細部にこだわる性格&lt;/strong>：脆弱性は小さな設定ミスや見落としから生じることも多いため、細かな点に注意を払える人が適していると言えるでしょう。&lt;/li>
 &lt;li>&lt;strong>忍耐強さがある&lt;/strong>：脆弱性の発見には時間が掛かることも多く、粘り強く取り組める性格の方が適していると言えるでしょう。&lt;/li>
 &lt;/ol>
-&lt;p>それ以外にも脆弱性診断では、システムの弱点を扱うため、高い倫理観と誠実さが必要です。&lt;/p></description></item><item><title>2.3 脆弱性診断士からのキャリアパス</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section3/</guid><description>&lt;h1 id="23-脆弱性診断士からのキャリアパス">
+&lt;p>それ以外にも脆弱性診断では、システムの弱点を扱うため、高い倫理観と誠実さが必要です。&lt;/p></description></item><item><title>2.3 脆弱性診断士からのキャリアパス</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section3/</guid><description>&lt;h1 id="23-脆弱性診断士からのキャリアパス">
  2.3 脆弱性診断士からのキャリアパス
  &lt;a class="anchor" href="#23-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%8b%e3%82%89%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%83%91%e3%82%b9">#&lt;/a>
 &lt;/h1>
@@ -104,7 +104,7 @@
 &lt;/ul>
 &lt;p>SecBoKでは、セキュリティ関連業務に携わる人材に求められるスキルがカテゴリ別にまとめられています。&lt;/p>
 &lt;p>脆弱性診断士以外にもセキュリティに携われる職務は数多くあるため、自分が今現在得意としている項目がどの職種で活躍できそうなのか、どの部分を補えば良いのか、参考として見ておくべきでしょう。&lt;/p>
-&lt;p>脆弱性診断士としてスキルを身につけた後にジョブチェンジする際の選定先を考えるのにも役立つでしょう。&lt;/p></description></item><item><title>2.4 初心者、定型業務、やりがい、あなたはどのパターン？</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section4/</guid><description>&lt;h1 id="24-初心者定型業務やりがいあなたはどのパターン">
+&lt;p>脆弱性診断士としてスキルを身につけた後にジョブチェンジする際の選定先を考えるのにも役立つでしょう。&lt;/p></description></item><item><title>2.4 初心者、定型業務、やりがい、あなたはどのパターン？</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section4/</guid><description>&lt;h1 id="24-初心者定型業務やりがいあなたはどのパターン">
  2.4 初心者、定型業務、やりがい、あなたはどのパターン？
  &lt;a class="anchor" href="#24-%e5%88%9d%e5%bf%83%e8%80%85%e5%ae%9a%e5%9e%8b%e6%a5%ad%e5%8b%99%e3%82%84%e3%82%8a%e3%81%8c%e3%81%84%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%a9%e3%81%ae%e3%83%91%e3%82%bf%e3%83%bc%e3%83%b3">#&lt;/a>
 &lt;/h1>
@@ -150,7 +150,7 @@
 &lt;li>技術の進歩に伴い、常に新しい挑戦がある&lt;/li>
 &lt;li>診断結果が具体的な改善につながり、その効果を実感できる&lt;/li>
 &lt;/ul>
-&lt;p>これらのパターンは相互に排他的ではなく、個人の興味や適性に応じて、複数の要素を兼ね備えることができます。脆弱性診断士という職種は、さまざまなニーズや背景を持つ人々にとって魅力的なキャリア選択肢となっています。&lt;/p></description></item><item><title>2.5 脆弱性診断士になるには</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section5/</guid><description>&lt;h1 id="25-脆弱性診断士になるには">
+&lt;p>これらのパターンは相互に排他的ではなく、個人の興味や適性に応じて、複数の要素を兼ね備えることができます。脆弱性診断士という職種は、さまざまなニーズや背景を持つ人々にとって魅力的なキャリア選択肢となっています。&lt;/p></description></item><item><title>2.5 脆弱性診断士になるには</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section5/</guid><description>&lt;h1 id="25-脆弱性診断士になるには">
  2.5 脆弱性診断士になるには
  &lt;a class="anchor" href="#25-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%ab%e3%81%af">#&lt;/a>
 &lt;/h1>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>脆弱性診断士のキャリアデザインガイド</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/</link><description>Recent content on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://webapppentestguidelines.github.io/CareerDesignGuide/index.xml" rel="self" type="application/rss+xml"/><item><title>1.1 脆弱性診断士の業務における役割と責任</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter1/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter1/section1/</guid><description>&lt;h1 id="11-脆弱性診断士の業務における役割と責任">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>脆弱性診断士のキャリアデザインガイド</title><link>https://wg1.isog-j.org/CareerDesignGuide/</link><description>Recent content on 脆弱性診断士のキャリアデザインガイド</description><generator>Hugo</generator><language>ja</language><atom:link href="https://wg1.isog-j.org/CareerDesignGuide/index.xml" rel="self" type="application/rss+xml"/><item><title>1.1 脆弱性診断士の業務における役割と責任</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter1/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter1/section1/</guid><description>&lt;h1 id="11-脆弱性診断士の業務における役割と責任">
  1.1 脆弱性診断士の業務における役割と責任
  &lt;a class="anchor" href="#11-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ae%e6%a5%ad%e5%8b%99%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e5%bd%b9%e5%89%b2%e3%81%a8%e8%b2%ac%e4%bb%bb">#&lt;/a>
 &lt;/h1>
@@ -50,12 +50,12 @@
 &lt;li>コンプライアンスへの対応&lt;/li>
 &lt;/ul>
 &lt;p>脆弱性診断士は技術的な専門性だけではなく、高い倫理観と責任感を持って業務を遂行することが求められます。&lt;/p>
-&lt;p>脆弱性診断士スキルマッププロジェクトでは、脆弱性診断士の行動規範を示す「&lt;a href="https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/code_of_ethics.md">脆弱性診断士倫理綱領&lt;/a>」を公開しています。&lt;/p></description></item><item><title>1.2 脆弱性診断士の業務内容と必要なスキル</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter1/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter1/section2/</guid><description>&lt;h1 id="12-脆弱性診断士の業務内容と必要なスキル">
+&lt;p>脆弱性診断士スキルマッププロジェクトでは、脆弱性診断士の行動規範を示す「&lt;a href="https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/code_of_ethics.md">脆弱性診断士倫理綱領&lt;/a>」を公開しています。&lt;/p></description></item><item><title>1.2 脆弱性診断士の業務内容と必要なスキル</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter1/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter1/section2/</guid><description>&lt;h1 id="12-脆弱性診断士の業務内容と必要なスキル">
  1.2 脆弱性診断士の業務内容と必要なスキル
  &lt;a class="anchor" href="#12-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ae%e6%a5%ad%e5%8b%99%e5%86%85%e5%ae%b9%e3%81%a8%e5%bf%85%e8%a6%81%e3%81%aa%e3%82%b9%e3%82%ad%e3%83%ab">#&lt;/a>
 &lt;/h1>
 &lt;p>脆弱性診断では、さまざまな対象の脆弱性を発見する必要があるため、各種システムやプロトコル、IT技術、攻撃技術や防御技術などに関する幅広い知識が求められます。&lt;/p>
-&lt;p>&lt;a href="https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project">脆弱性診断士スキルマッププロジェクト&lt;/a>では、「&lt;a href="https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E5%A3%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9">脆弱性診断士スキルマップ＆シラバス&lt;/a>」として、脆弱性診断業務に必要な技術的な能力を対象としたスキルマップを公開しています。現在はWebアプリケーションとプラットフォームの2つが存在し、それぞれSilverとGoldレベルの技能レベルが設定されています。&lt;/p></description></item><item><title>1.3 脆弱性診断の種類</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter1/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter1/section3/</guid><description>&lt;h1 id="13-脆弱性診断の種類">
+&lt;p>&lt;a href="https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project">脆弱性診断士スキルマッププロジェクト&lt;/a>では、「&lt;a href="https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E5%A3%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9">脆弱性診断士スキルマップ＆シラバス&lt;/a>」として、脆弱性診断業務に必要な技術的な能力を対象としたスキルマップを公開しています。現在はWebアプリケーションとプラットフォームの2つが存在し、それぞれSilverとGoldレベルの技能レベルが設定されています。&lt;/p></description></item><item><title>1.3 脆弱性診断の種類</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter1/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter1/section3/</guid><description>&lt;h1 id="13-脆弱性診断の種類">
  1.3 脆弱性診断の種類
  &lt;a class="anchor" href="#13-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e3%81%ae%e7%a8%ae%e9%a1%9e">#&lt;/a>
 &lt;/h1>
@@ -84,7 +84,7 @@ Webアプリケーション診断、プラットフォーム診断、スマー�
  &lt;/tbody>
 &lt;/table>
 &lt;p>&amp;lt;脆弱性診断の種類に関する参考文献&amp;gt;&lt;/p>
-&lt;p>・デジタル庁　&lt;a href="https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/3bc45d3c/20220630_resources_standard_guidelines_guidelines_08.pdf">政府情報システムにおける脆弱性診断導入ガイドライン&lt;/a>&lt;/p></description></item><item><title>1.4 脆弱性診断士の需要と市場動向</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter1/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter1/section4/</guid><description>&lt;h1 id="14-脆弱性診断士の需要と市場動向">
+&lt;p>・デジタル庁　&lt;a href="https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/3bc45d3c/20220630_resources_standard_guidelines_guidelines_08.pdf">政府情報システムにおける脆弱性診断導入ガイドライン&lt;/a>&lt;/p></description></item><item><title>1.4 脆弱性診断士の需要と市場動向</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter1/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter1/section4/</guid><description>&lt;h1 id="14-脆弱性診断士の需要と市場動向">
  1.4 脆弱性診断士の需要と市場動向
  &lt;a class="anchor" href="#14-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ae%e9%9c%80%e8%a6%81%e3%81%a8%e5%b8%82%e5%a0%b4%e5%8b%95%e5%90%91">#&lt;/a>
 &lt;/h1>
@@ -104,7 +104,7 @@ Webアプリケーション診断、プラットフォーム診断、スマー�
 &lt;center>
 
 
-&lt;script src="https://webapppentestguidelines.github.io/CareerDesignGuide/mermaid.min.js">&lt;/script>
+&lt;script src="https://wg1.isog-j.org/CareerDesignGuide/mermaid.min.js">&lt;/script>
 
  &lt;script>mermaid.initialize({
  "flowchart": {
@@ -160,7 +160,7 @@ xychart-beta
 &lt;/pre>
 
 &lt;/center>
-&lt;p>2024年度は、前年度までの流れから変わらずに堅調な推移となったとあります。今後も本カテゴリは拡大傾向にありますが、景気動向の影響が大きいカテゴリであり、情報セキュリティの重要性の認識は従来よりも高まっていることから、引き続き堅調な成長が見込まれるとあります。&lt;/p></description></item><item><title>2.1 セキュリティエンジニアの入口に最適な仕事</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section1/</guid><description>&lt;h1 id="21-セキュリティエンジニアの入口に最適な仕事">
+&lt;p>2024年度は、前年度までの流れから変わらずに堅調な推移となったとあります。今後も本カテゴリは拡大傾向にありますが、景気動向の影響が大きいカテゴリであり、情報セキュリティの重要性の認識は従来よりも高まっていることから、引き続き堅調な成長が見込まれるとあります。&lt;/p></description></item><item><title>2.1 セキュリティエンジニアの入口に最適な仕事</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section1/</guid><description>&lt;h1 id="21-セキュリティエンジニアの入口に最適な仕事">
  2.1 セキュリティエンジニアの入口に最適な仕事
  &lt;a class="anchor" href="#21-%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%81%ae%e5%85%a5%e5%8f%a3%e3%81%ab%e6%9c%80%e9%81%a9%e3%81%aa%e4%bb%95%e4%ba%8b">#&lt;/a>
 &lt;/h1>
@@ -179,7 +179,7 @@ xychart-beta
 &lt;li>セキュリティの事象や問題に対する解像度が高まる&lt;/li>
 &lt;li>セキュリティエンジニアとして倫理的に正しい行動を取るための基盤が築かれる&lt;/li>
 &lt;li>OJTやトレーニングカリキュラムが整っている&lt;/li>
-&lt;/ul></description></item><item><title>2.2 どういう人が脆弱性診断士に向いているか</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section2/</guid><description>&lt;h1 id="22-どういう人が脆弱性診断士に向いているか">
+&lt;/ul></description></item><item><title>2.2 どういう人が脆弱性診断士に向いているか</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section2/</guid><description>&lt;h1 id="22-どういう人が脆弱性診断士に向いているか">
  2.2 どういう人が脆弱性診断士に向いているか
  &lt;a class="anchor" href="#22-%e3%81%a9%e3%81%86%e3%81%84%e3%81%86%e4%ba%ba%e3%81%8c%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ab%e5%90%91%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8b">#&lt;/a>
 &lt;/h1>
@@ -191,7 +191,7 @@ xychart-beta
 &lt;li>&lt;strong>細部にこだわる性格&lt;/strong>：脆弱性は小さな設定ミスや見落としから生じることも多いため、細かな点に注意を払える人が適していると言えるでしょう。&lt;/li>
 &lt;li>&lt;strong>忍耐強さがある&lt;/strong>：脆弱性の発見には時間が掛かることも多く、粘り強く取り組める性格の方が適していると言えるでしょう。&lt;/li>
 &lt;/ol>
-&lt;p>それ以外にも脆弱性診断では、システムの弱点を扱うため、高い倫理観と誠実さが必要です。&lt;/p></description></item><item><title>2.3 脆弱性診断士からのキャリアパス</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section3/</guid><description>&lt;h1 id="23-脆弱性診断士からのキャリアパス">
+&lt;p>それ以外にも脆弱性診断では、システムの弱点を扱うため、高い倫理観と誠実さが必要です。&lt;/p></description></item><item><title>2.3 脆弱性診断士からのキャリアパス</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section3/</guid><description>&lt;h1 id="23-脆弱性診断士からのキャリアパス">
  2.3 脆弱性診断士からのキャリアパス
  &lt;a class="anchor" href="#23-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%8b%e3%82%89%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%83%91%e3%82%b9">#&lt;/a>
 &lt;/h1>
@@ -266,7 +266,7 @@ xychart-beta
 &lt;/ul>
 &lt;p>SecBoKでは、セキュリティ関連業務に携わる人材に求められるスキルがカテゴリ別にまとめられています。&lt;/p>
 &lt;p>脆弱性診断士以外にもセキュリティに携われる職務は数多くあるため、自分が今現在得意としている項目がどの職種で活躍できそうなのか、どの部分を補えば良いのか、参考として見ておくべきでしょう。&lt;/p>
-&lt;p>脆弱性診断士としてスキルを身につけた後にジョブチェンジする際の選定先を考えるのにも役立つでしょう。&lt;/p></description></item><item><title>2.4 初心者、定型業務、やりがい、あなたはどのパターン？</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section4/</guid><description>&lt;h1 id="24-初心者定型業務やりがいあなたはどのパターン">
+&lt;p>脆弱性診断士としてスキルを身につけた後にジョブチェンジする際の選定先を考えるのにも役立つでしょう。&lt;/p></description></item><item><title>2.4 初心者、定型業務、やりがい、あなたはどのパターン？</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section4/</guid><description>&lt;h1 id="24-初心者定型業務やりがいあなたはどのパターン">
  2.4 初心者、定型業務、やりがい、あなたはどのパターン？
  &lt;a class="anchor" href="#24-%e5%88%9d%e5%bf%83%e8%80%85%e5%ae%9a%e5%9e%8b%e6%a5%ad%e5%8b%99%e3%82%84%e3%82%8a%e3%81%8c%e3%81%84%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%a9%e3%81%ae%e3%83%91%e3%82%bf%e3%83%bc%e3%83%b3">#&lt;/a>
 &lt;/h1>
@@ -312,7 +312,7 @@ xychart-beta
 &lt;li>技術の進歩に伴い、常に新しい挑戦がある&lt;/li>
 &lt;li>診断結果が具体的な改善につながり、その効果を実感できる&lt;/li>
 &lt;/ul>
-&lt;p>これらのパターンは相互に排他的ではなく、個人の興味や適性に応じて、複数の要素を兼ね備えることができます。脆弱性診断士という職種は、さまざまなニーズや背景を持つ人々にとって魅力的なキャリア選択肢となっています。&lt;/p></description></item><item><title>2.5 脆弱性診断士になるには</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter2/section5/</guid><description>&lt;h1 id="25-脆弱性診断士になるには">
+&lt;p>これらのパターンは相互に排他的ではなく、個人の興味や適性に応じて、複数の要素を兼ね備えることができます。脆弱性診断士という職種は、さまざまなニーズや背景を持つ人々にとって魅力的なキャリア選択肢となっています。&lt;/p></description></item><item><title>2.5 脆弱性診断士になるには</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter2/section5/</guid><description>&lt;h1 id="25-脆弱性診断士になるには">
  2.5 脆弱性診断士になるには
  &lt;a class="anchor" href="#25-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%ab%e3%81%af">#&lt;/a>
 &lt;/h1>
@@ -383,7 +383,7 @@ xychart-beta
 &lt;li>クラウドに関する知識&lt;/li>
 &lt;/ul>
 &lt;p>こちらも診断対象によって必要な知識は異なってきます。また、知識以外にも実際にWebアプリケーションの開発経験やネットワークの構築経験があると診断業務に活用することができます。&lt;/p>
-&lt;p>その他にも、技術に関する知識やテクニック以外にソフトスキルの向上をおすすめします。特に文章作成能力は重要です。診断士の業務では報告書を出す必要があります。その際に検出された問題や対策をわかりやすく文章で相手に伝える必要があります。そのため、文章作成能力は非常に重要なスキルの1つとなります。&lt;/p></description></item><item><title>3.1 どのような業務内容か</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section1/</guid><description>&lt;h1 id="31-どのような業務内容か">
+&lt;p>その他にも、技術に関する知識やテクニック以外にソフトスキルの向上をおすすめします。特に文章作成能力は重要です。診断士の業務では報告書を出す必要があります。その際に検出された問題や対策をわかりやすく文章で相手に伝える必要があります。そのため、文章作成能力は非常に重要なスキルの1つとなります。&lt;/p></description></item><item><title>3.1 どのような業務内容か</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section1/</guid><description>&lt;h1 id="31-どのような業務内容か">
  3.1 どのような業務内容か
  &lt;a class="anchor" href="#31-%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%a5%ad%e5%8b%99%e5%86%85%e5%ae%b9%e3%81%8b">#&lt;/a>
 &lt;/h1>
@@ -432,7 +432,7 @@ xychart-beta
  プロジェクトの期間
  &lt;a class="anchor" href="#%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%81%ae%e6%9c%9f%e9%96%93">#&lt;/a>
 &lt;/h2>
-&lt;p>脆弱性診断のプロジェクトの期間については、診断対象の規模や条件などによって様々です。小規模のものでは数週間、大規模なプロジェクトでは数カ月かかることもあります。ただし、半年から1年以上かかることが一般的なコンサルティングなどのプロジェクトと比べれば、プロジェクト期間は短期的であるといえるでしょう。&lt;/p></description></item><item><title>3.2 セキュリティサービス事業者とユーザー企業</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section2/</guid><description>&lt;h1 id="32-セキュリティサービス事業者とユーザー企業">
+&lt;p>脆弱性診断のプロジェクトの期間については、診断対象の規模や条件などによって様々です。小規模のものでは数週間、大規模なプロジェクトでは数カ月かかることもあります。ただし、半年から1年以上かかることが一般的なコンサルティングなどのプロジェクトと比べれば、プロジェクト期間は短期的であるといえるでしょう。&lt;/p></description></item><item><title>3.2 セキュリティサービス事業者とユーザー企業</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section2/</guid><description>&lt;h1 id="32-セキュリティサービス事業者とユーザー企業">
  3.2 セキュリティサービス事業者とユーザー企業
  &lt;a class="anchor" href="#32-%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%ba%8b%e6%a5%ad%e8%80%85%e3%81%a8%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e4%bc%81%e6%a5%ad">#&lt;/a>
 &lt;/h1>
@@ -462,7 +462,7 @@ xychart-beta
  &lt;td>社内の他部門と連携し、設計レビューや教育を通じてセキュリティ品質の向上を図る。&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>3.3 業務時間</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section3/</guid><description>&lt;h1 id="33-業務時間">
+&lt;/table></description></item><item><title>3.3 業務時間</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section3/</guid><description>&lt;h1 id="33-業務時間">
  3.3 業務時間
  &lt;a class="anchor" href="#33-%e6%a5%ad%e5%8b%99%e6%99%82%e9%96%93">#&lt;/a>
 &lt;/h1>
@@ -480,7 +480,7 @@ xychart-beta
  平均した残業時間
  &lt;a class="anchor" href="#%e5%b9%b3%e5%9d%87%e3%81%97%e3%81%9f%e6%ae%8b%e6%a5%ad%e6%99%82%e9%96%93">#&lt;/a>
 &lt;/h2>
-&lt;p>残業時間については担当しているシステムに依存します。ISOG-Jで実施した脆弱性診断士のアンケートでは、月の業務時間が150～180時間と回答されている方が多く見受けられました。&lt;/p></description></item><item><title>3.4 年収、待遇などについて</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section4/</guid><description>&lt;h1 id="34-年収待遇などについて">
+&lt;p>残業時間については担当しているシステムに依存します。ISOG-Jで実施した脆弱性診断士のアンケートでは、月の業務時間が150～180時間と回答されている方が多く見受けられました。&lt;/p></description></item><item><title>3.4 年収、待遇などについて</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section4/</guid><description>&lt;h1 id="34-年収待遇などについて">
  3.4 年収、待遇などについて
  &lt;a class="anchor" href="#34-%e5%b9%b4%e5%8f%8e%e5%be%85%e9%81%87%e3%81%aa%e3%81%a9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6">#&lt;/a>
 &lt;/h1>
@@ -504,7 +504,7 @@ xychart-beta
  キャリアアップ
  &lt;a class="anchor" href="#%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%82%a2%e3%83%83%e3%83%97">#&lt;/a>
 &lt;/h2>
-&lt;p>キャリアアップのためには、ツールを回して診断結果を並べるだけではなく、手動の診断の要素を加えたり、検出した診断結果を独自に考察するなど、他診断士との差別化になるような技術なノウハウが必要になります。&lt;/p></description></item><item><title>3.5 仕事環境</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section5/</guid><description>&lt;h1 id="35-仕事環境">
+&lt;p>キャリアアップのためには、ツールを回して診断結果を並べるだけではなく、手動の診断の要素を加えたり、検出した診断結果を独自に考察するなど、他診断士との差別化になるような技術なノウハウが必要になります。&lt;/p></description></item><item><title>3.5 仕事環境</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section5/</guid><description>&lt;h1 id="35-仕事環境">
  3.5 仕事環境
  &lt;a class="anchor" href="#35-%e4%bb%95%e4%ba%8b%e7%92%b0%e5%a2%83">#&lt;/a>
 &lt;/h1>
@@ -514,7 +514,7 @@ xychart-beta
 &lt;li>診断対象がWebアプリケーションなどの場合は、基本的にはテレワークでの業務遂行も可能となります。ただし、IoTデバイスやスマートフォンや制御機器など、ハードウェアデバイスが存在するような対象の診断の場合においては、逆にほぼリモートワークがないということもあります。&lt;/li>
 &lt;li>お客様とのやり取りに関して、診断に関しての打ち合わせで合ったり、診断完了後の報告会などついては、対面で実施する機会も多くなります。しかし、比率としては、クライアントワークよりも、診断対象と向き合う時間のほうが基本的に長いでしょう。&lt;/li>
 &lt;/ul>
-&lt;p>ただし、ユーザー企業ではその企業に大きく左右されますし、企業の文化としての仕事環境に依るというところは、ほかの職種と同じです。&lt;/p></description></item><item><title>3.6 スキルアップや自己研鑽の方法</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section6/</guid><description>&lt;h1 id="36-スキルアップや自己研鑽の方法">
+&lt;p>ただし、ユーザー企業ではその企業に大きく左右されますし、企業の文化としての仕事環境に依るというところは、ほかの職種と同じです。&lt;/p></description></item><item><title>3.6 スキルアップや自己研鑽の方法</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section6/</guid><description>&lt;h1 id="36-スキルアップや自己研鑽の方法">
  3.6 スキルアップや自己研鑽の方法
  &lt;a class="anchor" href="#36-%e3%82%b9%e3%82%ad%e3%83%ab%e3%82%a2%e3%83%83%e3%83%97%e3%82%84%e8%87%aa%e5%b7%b1%e7%a0%94%e9%91%bd%e3%81%ae%e6%96%b9%e6%b3%95">#&lt;/a>
 &lt;/h1>
@@ -544,7 +544,7 @@ xychart-beta
 &lt;li>技術競技への参加(CTFやHardeningなど)&lt;/li>
 &lt;/ul>
 &lt;p>これらの自己研鑽は学習要件や学習コンテンツが提供されているものが多いです。ゴールや時間を設定されているものが多いため、特定の期間で効率的に学習を進められます。特に技術競技やトレーニングは、実際に手を動かす必要が出てくるため学びを深めるのに有効的な手段です。また、勉強会やイベントでは最新の情報が共有されることも多いので、自身の知見のアップデートに役立つでしょう。&lt;/p>
-&lt;p>手が空いている時間では、上記の自己研鑽の手段を組み合わせて、知見を広げ自身の業務に活用しています。書籍やイベント、トレーニングに関して具体的なものについては5章で紹介しています。&lt;/p></description></item><item><title>3.7 どのような組織で脆弱性診断が必要とされているのか</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section7/</guid><description>&lt;h1 id="37-どのような組織で脆弱性診断が必要とされているのか">
+&lt;p>手が空いている時間では、上記の自己研鑽の手段を組み合わせて、知見を広げ自身の業務に活用しています。書籍やイベント、トレーニングに関して具体的なものについては5章で紹介しています。&lt;/p></description></item><item><title>3.7 どのような組織で脆弱性診断が必要とされているのか</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section7/</guid><description>&lt;h1 id="37-どのような組織で脆弱性診断が必要とされているのか">
  3.7 どのような組織で脆弱性診断が必要とされているのか
  &lt;a class="anchor" href="#37-%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e7%b5%84%e7%b9%94%e3%81%a7%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e3%81%8c%e5%bf%85%e8%a6%81%e3%81%a8%e3%81%95%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%8b">#&lt;/a>
 &lt;/h1>
@@ -560,7 +560,7 @@ ITシステムを利用している多くの企業では、一般的には以下
 &lt;li>開発したシステムのリリースや、導入するシステムの受け入れ時などに脆弱性診断を実施&lt;/li>
 &lt;li>年に一回などの間隔で定期的な脆弱性診断を実施&lt;/li>
 &lt;/ul>
-&lt;p>そのため、特に業種などは限定せず、多くの企業にて脆弱性診断の実施が必要とされています。&lt;/p></description></item><item><title>3.8 経験談（経験、やっていてよかったこと）</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section8/</guid><description>&lt;h1 id="38-経験談経験やっていてよかったこと">
+&lt;p>そのため、特に業種などは限定せず、多くの企業にて脆弱性診断の実施が必要とされています。&lt;/p></description></item><item><title>3.8 経験談（経験、やっていてよかったこと）</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section8/</guid><description>&lt;h1 id="38-経験談経験やっていてよかったこと">
  3.8 経験談（経験、やっていてよかったこと）
  &lt;a class="anchor" href="#38-%e7%b5%8c%e9%a8%93%e8%ab%87%e7%b5%8c%e9%a8%93%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%a6%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8">#&lt;/a>
 &lt;/h1>
@@ -582,7 +582,7 @@ ISOG-Jで実施した脆弱性診断士のアンケートでは、以下のよ�
 &lt;/h2>
 &lt;p>脆弱性診断士としての業務に携わるうちに、Webアプリケーション開発知識や開発経験に始まり、TCP/IPやネットワークの知識や構築経験も身につけることができます。
 診断で検出した脆弱性はその挙動を追跡するために検証環境を用意する機会が多いです。そのため、自分でコードやTCP/IP仕様を学ぶことから広い知識を得ることが可能です。&lt;/p>
-&lt;p>また、脆弱性診断士は脆弱性発見の技術だけではなく、お客様との調整や、報告書を作成する過程でチームメンバーとのコミュニケーションを行うため、ドキュメント作成能力やマネジメント力も身につきます。&lt;/p></description></item><item><title>3.9 脆弱性診断士の愚痴</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section9/</guid><description>&lt;h1 id="39-脆弱性診断士の愚痴">
+&lt;p>また、脆弱性診断士は脆弱性発見の技術だけではなく、お客様との調整や、報告書を作成する過程でチームメンバーとのコミュニケーションを行うため、ドキュメント作成能力やマネジメント力も身につきます。&lt;/p></description></item><item><title>3.9 脆弱性診断士の愚痴</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section9/</guid><description>&lt;h1 id="39-脆弱性診断士の愚痴">
  3.9 脆弱性診断士の愚痴
  &lt;a class="anchor" href="#39-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ae%e6%84%9a%e7%97%b4">#&lt;/a>
 &lt;/h1>
@@ -615,7 +615,7 @@ ISOG-Jで実施した脆弱性診断士のアンケートでは、以下のよ�
  &lt;a class="anchor" href="#%e8%a8%ba%e6%96%ad%e3%81%ae%e5%af%be%e8%b1%a1%e3%81%a8%e3%81%aa%e3%82%8b%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%81%af%e8%87%aa%e5%88%86%e3%81%a7%e3%81%af%e9%81%b8%e3%81%b9%e3%81%be%e3%81%9b%e3%82%93">#&lt;/a>
 &lt;/h2>
 &lt;p>プロフェッショナルの脆弱性診断士は、どのようなシステムが目の前に現れても相手をしなければなりません。診断士の立ち位置にもよりますが、多種多様なシステムに対して診断することで、多くの技術に触れられる機会があると思います。&lt;/p>
-&lt;p>ただその反面、予想もできない強敵（とんでもない仕様のシステム）があなたの目の前に現れ、苦い経験をすることになるかもしれません。&lt;/p></description></item><item><title>4.1 身につくスキル、スキルの生かし方</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section1/</guid><description>&lt;h1 id="41-身につくスキルスキルの生かし方">
+&lt;p>ただその反面、予想もできない強敵（とんでもない仕様のシステム）があなたの目の前に現れ、苦い経験をすることになるかもしれません。&lt;/p></description></item><item><title>4.1 身につくスキル、スキルの生かし方</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter4/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter4/section1/</guid><description>&lt;h1 id="41-身につくスキルスキルの生かし方">
  4.1 身につくスキル、スキルの生かし方
  &lt;a class="anchor" href="#41-%e8%ba%ab%e3%81%ab%e3%81%a4%e3%81%8f%e3%82%b9%e3%82%ad%e3%83%ab%e3%82%b9%e3%82%ad%e3%83%ab%e3%81%ae%e7%94%9f%e3%81%8b%e3%81%97%e6%96%b9">#&lt;/a>
 &lt;/h1>
@@ -637,7 +637,7 @@ ISOG-Jで実施した脆弱性診断士のアンケートでは、以下のよ�
  &lt;a class="anchor" href="#%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b9%e3%82%ad%e3%83%ab">#&lt;/a>
 &lt;/h2>
 &lt;p>脆弱性診断士は、様々な立場の人に向けて、診断結果を報告する必要があります。
-限られたコミュニケーションパスの中でいかにうまく伝えられるかという訓練を積むことになるため、意図した通りに伝える技術が向上します。&lt;/p></description></item><item><title>4.2 脆弱性診断技術の深掘り</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section2/</guid><description>&lt;h1 id="42-脆弱性診断技術の深掘り">
+限られたコミュニケーションパスの中でいかにうまく伝えられるかという訓練を積むことになるため、意図した通りに伝える技術が向上します。&lt;/p></description></item><item><title>4.2 脆弱性診断技術の深掘り</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter4/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter4/section2/</guid><description>&lt;h1 id="42-脆弱性診断技術の深掘り">
  4.2 脆弱性診断技術の深掘り
  &lt;a class="anchor" href="#42-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e6%8a%80%e8%a1%93%e3%81%ae%e6%b7%b1%e6%8e%98%e3%82%8a">#&lt;/a>
 &lt;/h1>
@@ -654,7 +654,7 @@ ISOG-Jで実施した脆弱性診断士のアンケートでは、以下のよ�
 &lt;li>ツールが見つけられない脆弱性を手動で見つけられる&lt;/li>
 &lt;li>診断手法をブラッシュアップし、速度や検出率を上げる&lt;/li>
 &lt;li>未知の新たな診断手法を発明する&lt;/li>
-&lt;/ol></description></item><item><title>4.3 脆弱性診断以外のキャリアパスについて</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section3/</guid><description>&lt;h1 id="43-脆弱性診断以外のキャリアパスについて">
+&lt;/ol></description></item><item><title>4.3 脆弱性診断以外のキャリアパスについて</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter4/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter4/section3/</guid><description>&lt;h1 id="43-脆弱性診断以外のキャリアパスについて">
  4.3 脆弱性診断以外のキャリアパスについて
  &lt;a class="anchor" href="#43-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e4%bb%a5%e5%a4%96%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%83%91%e3%82%b9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6">#&lt;/a>
 &lt;/h1>
@@ -675,7 +675,7 @@ ISOG-Jで実施した脆弱性診断士のアンケートでは、以下のよ�
 &lt;p>マネジメント職に進む人もいます。&lt;/p>
 &lt;p>診断業務に理解があるので、部下の得意不得意を適切に見極め、最適なリソース配分ができると思います。
 また診断士が手を抜きがちなポイントや、案件でトラブルになりそうなポイントもわかっているので、事前に手を打っておくこともできます。
-さらにマネジメント・経営スキルを磨いていけば昇進していくことでしょう。&lt;/p></description></item><item><title>4.4 脆弱性診断業界がどのように変わっていくか？</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter4/section4/</guid><description>&lt;h1 id="44-脆弱性診断業界がどのように変わっていくか">
+さらにマネジメント・経営スキルを磨いていけば昇進していくことでしょう。&lt;/p></description></item><item><title>4.4 脆弱性診断業界がどのように変わっていくか？</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter4/section4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter4/section4/</guid><description>&lt;h1 id="44-脆弱性診断業界がどのように変わっていくか">
  4.4 脆弱性診断業界がどのように変わっていくか？
  &lt;a class="anchor" href="#44-%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e6%a5%ad%e7%95%8c%e3%81%8c%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e5%a4%89%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%84%e3%81%8f%e3%81%8b">#&lt;/a>
 &lt;/h1>
@@ -692,7 +692,7 @@ ISOG-Jで実施した脆弱性診断士のアンケートでは、以下のよ�
  &lt;a class="anchor" href="#%e5%8d%98%e7%b4%94%e3%81%aa%e8%84%86%e5%bc%b1%e6%80%a7%e3%81%ae%e6%b8%9b%e5%b0%91">#&lt;/a>
 &lt;/h2>
 &lt;p>昨今のアプリケーションの開発ではフレームワークが利用されています。これらのフレームワークでは脆弱性を作りこまない仕組みが提供されています。今後もアプリ開発ではこれらのフレームワークが利用されて開発されていくため、単純な脆弱性は作り込まれづらくなっていき、減少していくと考えられます。そのことからも単純な脆弱性を探す業務は縮小していくと思われます。&lt;/p>
-&lt;p>診断に関する需要が高まる一方で、脆弱性診断士に期待される業務や能力は変化していくと思われます。将来的に求められるものとして、ツールでできない領域や高度な専門技術を必要とする診断ができる能力だと考えられます。また、生成AIなど新しい技術の活用は新しいセキュリティリスクの発生につながる可能性があります。そのため、その領域での脆弱性診断の需要が高まっていくことが考えられます。なので、新しい技術領域に関して積極的にキャッチアップを行い、自身の能力を高めるのが重要です。&lt;/p></description></item><item><title>5.1 OJT</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter5/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter5/section1/</guid><description>&lt;h1 id="51-ojt">
+&lt;p>診断に関する需要が高まる一方で、脆弱性診断士に期待される業務や能力は変化していくと思われます。将来的に求められるものとして、ツールでできない領域や高度な専門技術を必要とする診断ができる能力だと考えられます。また、生成AIなど新しい技術の活用は新しいセキュリティリスクの発生につながる可能性があります。そのため、その領域での脆弱性診断の需要が高まっていくことが考えられます。なので、新しい技術領域に関して積極的にキャッチアップを行い、自身の能力を高めるのが重要です。&lt;/p></description></item><item><title>5.1 OJT</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter5/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter5/section1/</guid><description>&lt;h1 id="51-ojt">
  5.1 OJT
  &lt;a class="anchor" href="#51-ojt">#&lt;/a>
 &lt;/h1>
@@ -718,7 +718,7 @@ ISOG-Jで実施した脆弱性診断士のアンケートでは、以下のよ�
 &lt;/h2>
 &lt;p>脆弱性診断はチームで分業して行う場合もありますが、
 OJTの最終段階では、数日で完了する小規模な診断案件を1人で担当することで、業務の全工程を経験することができます。&lt;/p>
-&lt;p>また、新しい技術を使用したシステムや複雑なシステムも担当することで、応用力も身につけることもできます。&lt;/p></description></item><item><title>5.2 イベント</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter5/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter5/section2/</guid><description>&lt;h1 id="52-イベント">
+&lt;p>また、新しい技術を使用したシステムや複雑なシステムも担当することで、応用力も身につけることもできます。&lt;/p></description></item><item><title>5.2 イベント</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter5/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter5/section2/</guid><description>&lt;h1 id="52-イベント">
  5.2 イベント
  &lt;a class="anchor" href="#52-%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88">#&lt;/a>
 &lt;/h1>
@@ -789,7 +789,7 @@ Black Hat よりも比較的安価な価格でトレーニングの受講が可�
  &lt;a class="anchor" href="#hardening">#&lt;/a>
 &lt;/h2>
 &lt;p>Hardening (ハードニング)とは、システムやアプリケーションのセキュリティを強化し、脆弱性を減らすための一連のプロセスや技術のことをいいます。
-具体的な手法の例としては下記のようなものが挙げられます。&lt;/p></description></item><item><title>5.3 自己学習</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter5/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter5/section3/</guid><description>&lt;h1 id="53-自己学習">
+具体的な手法の例としては下記のようなものが挙げられます。&lt;/p></description></item><item><title>5.3 自己学習</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter5/section3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter5/section3/</guid><description>&lt;h1 id="53-自己学習">
  5.3 自己学習
  &lt;a class="anchor" href="#53-%e8%87%aa%e5%b7%b1%e5%ad%a6%e7%bf%92">#&lt;/a>
 &lt;/h1>
@@ -960,7 +960,7 @@ Zero-Point Security により提供されるオペレーションレベルでの
 &lt;li>徳丸 浩 (2018)『体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践』，SBクリエイティブ．&lt;/li>
 &lt;li>金床 (2007)『ウェブアプリケーションセキュリティ』，データ・ハウス．&lt;/li>
 &lt;li>Chris McNab (2005)『実践 ネットワークセキュリティ監査』，オライリー・ジャパン．&lt;/li>
-&lt;/ul></description></item><item><title>6.1 アンケートの実施方法と回答数</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section1/</guid><description>&lt;h1 id="61-アンケートの実施方法と回答数">
+&lt;/ul></description></item><item><title>6.1 アンケートの実施方法と回答数</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/section1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/section1/</guid><description>&lt;h1 id="61-アンケートの実施方法と回答数">
  6.1 アンケートの実施方法と回答数
  &lt;a class="anchor" href="#61-%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e3%81%ae%e5%ae%9f%e6%96%bd%e6%96%b9%e6%b3%95%e3%81%a8%e5%9b%9e%e7%ad%94%e6%95%b0">#&lt;/a>
 &lt;/h1>
@@ -985,7 +985,7 @@ Zero-Point Security により提供されるオペレーションレベルでの
  有効回答数
  &lt;a class="anchor" href="#%e6%9c%89%e5%8a%b9%e5%9b%9e%e7%ad%94%e6%95%b0">#&lt;/a>
 &lt;/h2>
-&lt;p>&lt;strong>38&lt;/strong>件&lt;/p></description></item><item><title>6.2 回答者の年齢層、経験年数、職種など</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter6/section2/</guid><description>&lt;h1 id="62-回答者の年齢層経験年数職種など">
+&lt;p>&lt;strong>38&lt;/strong>件&lt;/p></description></item><item><title>6.2 回答者の年齢層、経験年数、職種など</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/section2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter6/section2/</guid><description>&lt;h1 id="62-回答者の年齢層経験年数職種など">
  6.2 回答者の年齢層、経験年数、職種など
  &lt;a class="anchor" href="#62-%e5%9b%9e%e7%ad%94%e8%80%85%e3%81%ae%e5%b9%b4%e9%bd%a2%e5%b1%a4%e7%b5%8c%e9%a8%93%e5%b9%b4%e6%95%b0%e8%81%b7%e7%a8%ae%e3%81%aa%e3%81%a9">#&lt;/a>
 &lt;/h1>
@@ -998,7 +998,7 @@ Zero-Point Security により提供されるオペレーションレベルでの
 &lt;center>
 
 
-&lt;script src="https://webapppentestguidelines.github.io/CareerDesignGuide/mermaid.min.js">&lt;/script>
+&lt;script src="https://wg1.isog-j.org/CareerDesignGuide/mermaid.min.js">&lt;/script>
 
  &lt;script>mermaid.initialize({
  "flowchart": {
@@ -1047,7 +1047,7 @@ pie showData
  診断士を行う前の職種
  &lt;a class="anchor" href="#%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%82%92%e8%a1%8c%e3%81%86%e5%89%8d%e3%81%ae%e8%81%b7%e7%a8%ae">#&lt;/a>
 &lt;/h2>
-&lt;p>新卒から脆弱性診断士をやっている方が最も多く、その他エンジニア出身の方が目立ちました。&lt;/p></description></item><item><title>3.10 なぜ脆弱性診断士になろうとしたのか</title><link>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webapppentestguidelines.github.io/CareerDesignGuide/docs/chapter3/section10/</guid><description>&lt;h1 id="310-なぜ脆弱性診断士になろうとしたのか">
+&lt;p>新卒から脆弱性診断士をやっている方が最も多く、その他エンジニア出身の方が目立ちました。&lt;/p></description></item><item><title>3.10 なぜ脆弱性診断士になろうとしたのか</title><link>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wg1.isog-j.org/CareerDesignGuide/docs/chapter3/section10/</guid><description>&lt;h1 id="310-なぜ脆弱性診断士になろうとしたのか">
  3.10 なぜ脆弱性診断士になろうとしたのか
  &lt;a class="anchor" href="#310-%e3%81%aa%e3%81%9c%e8%84%86%e5%bc%b1%e6%80%a7%e8%a8%ba%e6%96%ad%e5%a3%ab%e3%81%ab%e3%81%aa%e3%82%8d%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f%e3%81%ae%e3%81%8b">#&lt;/a>
 &lt;/h1>
